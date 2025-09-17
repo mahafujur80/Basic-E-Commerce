@@ -199,6 +199,7 @@ span {
 }
 .product:hover{
     transform: scale(1.05);
+    box-shadow: 2px 2px 15px rgb(156, 154, 154),-2px -2px 15px rgb(156, 154, 154);
 }
 
 .productBox {
